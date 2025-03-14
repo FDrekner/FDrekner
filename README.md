@@ -1,4 +1,4 @@
-## Hi there 👋
+![star-wars-obi-wan-kenobi](https://github.com/user-attachments/assets/26bcf1c1-403e-415e-a586-abd1b214d4ca)
 
 <!--
 **FDrekner/FDrekner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
