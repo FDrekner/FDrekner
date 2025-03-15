@@ -5,7 +5,7 @@
 <hr>
 
 
-## Where to find me :)
+<h2 align="center">Where to find me :)</h2>
 <div align="center">
   <a href="mailto:fernandodrekner@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/fernando.drekner/"><img height="30em" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
