@@ -7,10 +7,10 @@
 
 <h2 align="center">Where to find me :)</h2>
 <div align="center">
-  <a href="mailto:fernandodrekner@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fernando.drekner/"><img height="30em" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fernando-drekner-de-souza/"><img height="30em" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="30em" src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" /></a>
+  <a target="_blank" href="mailto:fernandodrekner@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://www.instagram.com/fernando.drekner/"><img height="30em" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/fernando-drekner-de-souza/"><img height="30em" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="30em" src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" /></a>
 </div>
 <!--
 **FDrekner/FDrekner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
