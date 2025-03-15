@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/26bcf1c1-403e-415e-a586-abd1b214d4ca" alt="animated" />
 </p>
 
-<hr>
-
 
 
 <div align="center">
@@ -13,9 +11,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/fernando-drekner-de-souza/"><img height="30em" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="30em" src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" /></a>
 </div>
-<hr>
-
-
 
 <div align="center">
   <h2 align="center">Languages & tools 🔥</h2>
