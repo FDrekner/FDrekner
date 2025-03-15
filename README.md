@@ -10,9 +10,6 @@
   <a target="_blank" href="https://www.instagram.com/fernando.drekner/"><img height="30em" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/fernando-drekner-de-souza/"><img height="30em" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="30em" src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" /></a>
-</div>
-
-<div align="center">
   <h2 align="center">Languages & tools 🛠️</h2>
   <img height="30em" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
