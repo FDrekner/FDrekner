@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/26bcf1c1-403e-415e-a586-abd1b214d4ca" alt="animated" />
 </p>
+
+<hr>
+
+## My socials
+<div align="center">
+  <a href="mailto:fernandodrekner@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)</a>
+</div>
 <!--
 **FDrekner/FDrekner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
