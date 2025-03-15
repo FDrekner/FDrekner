@@ -6,7 +6,7 @@
 
 ## My socials
 <div align="center">
-  <a href="mailto:fernandodrekner@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)</a>
+  <a href="mailto:fernandodrekner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </div>
 <!--
 **FDrekner/FDrekner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
