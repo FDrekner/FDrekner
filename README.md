@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Languages & tools 🔥</h2>
+  <h2 align="center">Languages & tools 🛠️</h2>
   <img height="30em" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
